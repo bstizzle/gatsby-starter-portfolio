@@ -1,7 +1,8 @@
 import {
   faTwitter,
   faGithub,
-  faLinkedin
+  faLinkedin,
+  faMedium
 } from '@fortawesome/free-brands-svg-icons';
 import {
   faGlobe,
@@ -16,4 +17,5 @@ export const ICONS = [
   faGlobe,
   faEnvelope,
   faCoffee,
+  faMedium
 ];
